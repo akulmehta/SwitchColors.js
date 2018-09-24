@@ -1,5 +1,5 @@
 # SwitchColors.js
-SwitchColors.js has a function switchColors () which returns random colors having controllable saturation. 
+SwitchColors.js has a function switchColors () which returns random colors having controllable brightness and saturation. 
 
 The switchColors() function also contains a rgbtohex() function which formats the RGB color values to a hexcode string.
 
