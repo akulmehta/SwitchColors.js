@@ -10,7 +10,7 @@ The script is able to keep the r, g, b colors separated by a separation value wh
 The Example.html file demonstrates how SwitchColors.js can be used to switch colors of a dom element by the click of a button.
 
 # Use Cases
-To produce random colors for dom elements
+To produce random colors for DOM elements
 
 # License
 The license can be found in the LICENSE file.
