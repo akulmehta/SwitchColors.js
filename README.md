@@ -7,6 +7,8 @@ The variable "range" controls the range of brightness/darkness you like for each
 
 The script is able to keep the r, g, b colors separated by a separation value which is set by the variable "sep" which can be specified. This prevents "greying" of colors and hence keeps the saturation of the colors high. Since it uses a separation value to separate out the r, g, b values, colors like yellow and cyan which would be difficult to see on white are also not found in the randomization. Thus the product is a dark and saturated color which are usually pleasing to the eye. Smaller separation values will produce more pastel like shades.
 
+The Example.html file demonstrates how SwitchColors.js can be used to switch colors of a dom element by the click of a button.
+
 # Use Cases
 To produce random colors for dom elements
 
